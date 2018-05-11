@@ -1,0 +1,30 @@
+.title p{
+    font-size:25pt;
+    color:#CEE449;
+    text-align:center;
+}
+
+.image{
+    text-align:center;
+}
+.database{
+    text-align:center;
+}
+.container{
+    color:white;
+}
+.instructions{
+    color:white;
+    text-align:justify;
+    width:30%;
+    position:absolute;
+    top:25%;
+    left:5%;
+}
+.alert{
+    color:white;
+    font-size:20pt;
+    position:absolute;
+    top:61%;
+    left:4%;
+}

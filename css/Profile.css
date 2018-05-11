@@ -1,0 +1,22 @@
+.textEdit h2{
+    color:white;
+    font-size:25pt;
+}
+
+.textEdit p{
+    font-size:15pt;
+}
+
+.items{
+    text-align:center;
+}
+
+.image{
+    position:absolute;
+    left:35%;
+    top:60%;
+}
+.student{
+    color:white;
+    font-size:20pt;
+}

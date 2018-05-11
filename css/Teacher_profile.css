@@ -1,0 +1,15 @@
+.classes{
+    font-size:25pt;
+    color:black;
+}
+.student{
+    color:black;
+    font-size:20pt;
+}
+
+table, th, td {
+   border: 1px solid black;
+   background: white;
+   text-align: center;
+   font-size: x-large;
+}

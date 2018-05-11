@@ -1,0 +1,19 @@
+{
+    "GrassLand":{
+        "StageNum" : 1,
+        "Name": "GrassLand",
+        "Img": "../images/GrassLand.png"
+    },
+    
+    "Mountains":{
+        "StageNum" : 2,
+        "Name": "Mountains",
+        "Img": "../images/Mountains.png"
+    },
+    
+    "Volcano":{
+        "StageNum" : 3,
+        "Name": "Volcano",
+        "Img": "../images/Volcano.png"
+    }
+}

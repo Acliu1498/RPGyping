@@ -1,0 +1,51 @@
+
+h1{
+    color:white;
+    position: absolute;
+    bottom: 10px;
+    font-size:50px;
+}
+
+.container{
+    display:block;
+    text-align: left;
+    width: 50px;
+    font: normal 30px arial, sans, sans-serif;
+}
+.ninja{
+    float: right;
+}
+#myProgress{
+    width: 100%;
+    background-color:grey;
+}
+#myBar{
+    width: 15%;
+    height: 30px;
+    background-color: green;
+}
+p{
+    color:white;
+}
+.profile{
+    color:white;
+}
+#links a{ 
+    color:hotpink;
+}
+.char, .game{
+    font-size: 50px;
+    text-align: center;
+}
+.settingsText{
+    text-align: center;
+}
+.stars {
+    text-align:center;
+}
+table, th, td, tr {
+    border: 1px solid black;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+}

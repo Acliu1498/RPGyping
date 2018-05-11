@@ -1,0 +1,68 @@
+.button1{
+    color:white;
+    background-color:#FC3F3F;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:15px;
+}
+.button2{
+    color:white;
+    background-color:#F17647;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:20px;
+}
+.button3{
+    color:white;
+    background-color:#7FD9AA;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:25px;
+}
+.button4{
+    background-color:#CEE449;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:30px;
+}
+.button5{
+    color:white;
+    background-color:#7FD9AA;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:35px;
+}
+.button6{
+    color:white;
+    background-color:#FC3F3F;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:40px;
+}
+.navbar{
+    background: linear-gradient(to bottom right,#11726f,#11726f);
+    border: 2px solid black;
+}
+body{
+    background-image:url('../images/title.png');
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}

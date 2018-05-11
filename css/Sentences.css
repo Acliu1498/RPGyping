@@ -1,0 +1,137 @@
+head{
+    text-align:right;
+}
+/*#progressBar{*/
+/*    position: fixed;*/
+/*    top:200px;*/
+/*    left:105px;*/
+/*}*/
+.entry{
+    /*position: fixed;*/
+    /*top: 300px;*/
+    /*left: 250px;*/
+    /*width: 450px;*/
+    border-style: dashed;
+    border-width:3px;
+    background-color:#7FD9AA;
+}
+.textArea{
+    /*position: fixed;*/
+    /*top: 550px;*/
+    /*left: 250px;*/
+    /*width: 450px;*/
+    border-style: dashed;
+    border-width:3px;
+    font-size:16pt;
+    background-color:#7FD9AA;
+}
+/*#monster{*/
+/*    border-style:dashed;*/
+/*    position:fixed;*/
+/*    top:270px;*/
+/*    right:425px;*/
+/*}*/
+#stats{
+    /*position:fixed;*/
+    /*top:385px;*/
+    /*left:775px;*/
+    /*width:12%;*/
+    /*height:25%;*/
+    background-color:#CEE449;
+    border-style:dashed;
+}
+
+body{
+
+
+    /* The image used */
+    background-image: url("../images/kindergarden2.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*.health-bar {*/
+/*  -webkit-box-sizing: border-box;*/
+/*  -moz-box-sizing: border-box;*/
+/*  box-sizing: border-box;*/
+/*  width: 200px;*/
+/*  height: 20px;*/
+/*  padding: 5px;*/
+/*  background: #ddd;*/
+/*  -webkit-border-radius: 5px;*/
+/*  -moz-border-radius: 5px;*/
+/*  border-radius: 5px;*/
+/*  position: relative;*/
+/*}*/
+/*.bar {*/
+/*  background: #c54;*/
+/*  width: 100%;*/
+/*  height: 10px;*/
+/*  position: relative;*/
+  
+/*  transition: width .5s linear;*/
+/*}*/
+
+/*.hit {*/
+/*  background: rgba(255,255,255,0.6);*/
+/*  position: absolute;*/
+/*  top: 0;*/
+/*  right: 0;*/
+/*  bottom: 0;*/
+/*  width: 0px;*/
+  
+/*  transition: width .5s linear;*/
+/*}*/
+progress {
+  background: green;
+  border: 0;
+  width: 400px;
+  height: 25px;
+  border-radius: 9px;
+}
+.uglybox{
+    position:absolute;
+    color:white;
+    font-size:14pt;
+    left:38%;
+    top:10%;
+}
+.button1{
+    color:white;
+    background-color:#FC3F3F;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:510px;
+}
+.button2{
+    color:white;
+    background-color:#F17647;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:540px;
+}
+.button3{
+    color:white;
+    background-color:#7FD9AA;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:570px;
+}
+.navbar{
+    background: linear-gradient(to bottom right,#CEE449,#CEE449);
+    border: 2px solid black;
+}

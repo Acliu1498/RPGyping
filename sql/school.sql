@@ -1,0 +1,7 @@
+USE egr302;
+DROP TABLE if EXISTS school_TBL;
+
+CREATE TABLE school_TBL(
+schoolID INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+schoolName varchar(45) NOT NULL
+);

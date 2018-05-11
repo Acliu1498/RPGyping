@@ -1,0 +1,26 @@
+.alignStudent{
+    text-align:center;
+    font-size:16pt;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+}
+
+.alignTeacher{
+    text-align:center;
+    font-size:16pt;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+}
+.Links{
+    text-align:center;
+    color:white;
+    font-size:30pt;
+}
+
+a:hover{
+    color:pink;
+}

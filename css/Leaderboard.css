@@ -1,0 +1,80 @@
+p, p1{
+    color:white;
+    font-size:30pt;
+}
+body{
+    background-image: url("../images/kindergarden2.jpg");
+    background-size:100%;
+}
+
+tr, td{
+    background-color:#7FD9AA;
+}
+
+
+.button1{
+    color:white;
+    background-color:#FC3F3F;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:15px;
+}
+.button2{
+    color:white;
+    background-color:#F17647;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:1px;
+}
+.button3{
+    color:white;
+    background-color:#7FD9AA;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:25px;
+}
+.button4{
+    background-color:#CEE449;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:30px;
+}
+.button5{
+   color:white;
+    background-color:#FC3F3F;
+    font-size:20px;
+    border-radius:8px;
+    border: 2px solid black;
+    position:relative;
+    top:5px;
+    left:35px;
+}
+.navbar{
+    background: linear-gradient(to bottom right,#FFF7C0,#FFF7C0);
+    border: 2px solid black;
+}
+body{
+    background-image: url("../images/kindergarden2.jpg");
+    background-size:100%;
+}
+.image11{
+    position:absolute;
+    top:30%;
+    left:30%;
+}
+.settings{
+    position:absolute;
+    left:30%;
+}
